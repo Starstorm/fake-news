@@ -1,5 +1,5 @@
 ##Text Quantification Tools
-Above is the Jupyter Notebook file I was using. 
+Above is the Notebook file I was using for download. However, the other files are too large for GitHub, see below.
 
 For indico's API-based tools, you'll need an API key which can be obtained free at https://indico.io/docs. Note that indico gives you 10,000 API calls per account per month for free, but they appear open to giving more for non-commercial academic purposes. If everyone has a 10,000/month limit account, it should be doable I think.
 
